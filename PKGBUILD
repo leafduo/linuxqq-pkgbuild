@@ -14,6 +14,7 @@ build() {
     cd $startdir/src/
     ar vx linuxqq_1.0-Preview2008_i386.deb
     tar xfz data.tar.gz
-    #rm -rf $startdir/src/usr/share/doc
+    chmod 0755 $startdir/src/usr/bin/QQ $startdir/src/usr/share/apps/Tencent/QQ/*
     cp -a $startdir/src/usr $startdir/pkg
+    ln -s /usr/bin/QQ $startdir/pkg/usr/bin/qq
 }
