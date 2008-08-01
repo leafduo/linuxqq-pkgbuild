@@ -1,12 +1,12 @@
 # Maintainer: leafduo <leafduo@gmail.com>
 pkgname=linuxqq
 pkgver=1.0_Preview1
-pkgrel=1
+pkgrel=2
 pkgdesc="QQ for Linux 1.0 Preview"
 url="http://www.qq.com/"
 license=("")
 depends=('gtk2>=2.10')
-arch=(i686 x86_64)
+arch=(i686)
 makedepends=('tar')
 source=(http://dl_dir.qq.com/linuxqq/linuxqq_1.0-Preview1_i386.deb)
 md5sums=('cf95014386fb69981ba30444b06aedb5')
