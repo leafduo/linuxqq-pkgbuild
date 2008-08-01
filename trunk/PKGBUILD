@@ -4,7 +4,7 @@ pkgver=1.0_Preview1
 pkgrel=2
 pkgdesc="QQ for Linux 1.0 Preview"
 url="http://www.qq.com/"
-license=("")
+license=("copyrighted")
 depends=('gtk2>=2.10')
 arch=(i686)
 makedepends=('tar')
