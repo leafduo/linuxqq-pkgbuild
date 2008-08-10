@@ -1,4 +1,4 @@
-# Maintainer: leafduo <leafduo@gmail.com>
+# Contributor: leafduo <leafduo@gmail.com>
 pkgname=linuxqq
 pkgver=1.0_Preview1
 pkgrel=2
