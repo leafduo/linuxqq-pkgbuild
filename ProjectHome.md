@@ -1,0 +1,1 @@
+QQ for Linux Archlinux PKGBUILD
